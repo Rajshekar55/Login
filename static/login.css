@@ -1,0 +1,42 @@
+.container {
+    margin-top: 25px;
+}
+
+.box {
+    width: 680px;
+    background-color: white;
+    padding-left: 80px;
+    padding-right: 220px;
+    padding-top: 45px;
+    margin-top: 40px;
+    margin-left: 250px;
+    border-radius: 20px;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+h1 {
+    color: orange;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    margin-top: 75px;
+}
+
+h3 {
+    font-style: italic;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.log {
+    margin-bottom: 20px;
+}
+
+.reg {
+    margin-left: 300px;
+    margin-top: -105px;
+}
